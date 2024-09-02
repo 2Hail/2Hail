@@ -23,7 +23,7 @@ If given the opportunity, I would like to apply course learnings towards my prof
 
 ***Contact***
 
-LinkdIn: www.linkedin.com/in/ryan-goda-85132a1bb
+LinkedIn: www.linkedin.com/in/ryan-goda-85132a1bb
 
 Email: RyanGoda32@protonmail.com
 
