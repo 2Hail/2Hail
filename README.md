@@ -18,8 +18,8 @@ My goal for this course is / was to become knowledgeable in Python and applicati
 
 ***Personal Goals***
 
-After completing this course, I have solidified my interests in learning more about programming. I would like to learn C++ & R.
-If given the opportunity, I would like to apply course learnings towards my profession.
+After completing this course, I have solidified my interest in better understanding the backend of programming and how it can be utilized in financial analysis. I would also like to learn the financial applications of C++ & R.
+If given the opportunity, I would like to apply the course learnings of analysis and conversion of data towards my profession.
 
 ***Contact***
 
