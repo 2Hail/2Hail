@@ -18,13 +18,13 @@ My goal for this course is / was to become knowledgeable in Python and applicati
 
 ***Personal Goals***
 
-After completing this course, I have solidified my interest in better understanding the backend of programming and how it can be utilized in financial analysis. I would also like to learn the financial applications of C++ & R.
+After completing this course, I have solidified my interest in better understanding the backend of programming and how it can be utilized in financial analysis. I would also like to learn the financial applications of SQL, C++, & R.
 If given the opportunity, I would like to apply the course learnings of analysis and conversion of data towards my profession.
 
 ***Contact***
 
 LinkedIn: www.linkedin.com/in/ryan-goda-85132a1bb
 
-Email: RyanGoda32@protonmail.com
+Email: ryan.goda02@gmail.com
 
 Thank you for reading about me!
