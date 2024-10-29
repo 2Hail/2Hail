@@ -10,7 +10,7 @@ My repositories consist of assignments and projects assigned to me through EDX -
 
 My interests include Mathematics as well as Data Modeling. I find these topics to be fascinating as it allows me to problem-solve & innovate solutions.
 Along with this, I enjoy learning more about how repetitive tasks can be automated to save time and increase efficiency while still delivering quality solutions.
-Finally, I am interested in the fields of Financial Engineering, Financial Analysis, Data Analysis, Data Analytics, and Quantitative Finance roles.
+Finally, I am interested in the fields of Financial Engineering, Financial Analysis, Data Analysis, Data Science, Data Analytics, and Quantitative Finance roles.
 
 ***Course Goals***
 
